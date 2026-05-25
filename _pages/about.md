@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <div class="physics-tagline"><span class="walker">🤖</span> Building robots for the real world.</div>
+subtitle: '<div class="physics-tagline" style="margin-top: 0.75rem;"><span class="walker">🤖</span> Building robots for the real world.</div>'
 
 profile:
   align: right
