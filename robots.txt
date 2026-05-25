@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shangqunyu.github.io/al-folio/sitemap.xml
+Sitemap: https://shangqunyu.github.io/sitemap.xml
