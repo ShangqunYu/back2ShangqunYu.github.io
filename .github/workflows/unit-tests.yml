@@ -66,8 +66,10 @@ jobs:
       - name: Install JS deps 📦
         run: npm ci
 
-      - name: Run style contract lint 🧷
-        run: npm run lint:style-contract
+      # Style-contract lint is intentionally skipped: this check enforces that
+      # the al-folio *template* repo does not ship gem-owned paths (_layouts,
+      # _includes, _sass, …). As a personal site fork, local overrides of
+      # gem-owned files are explicitly permitted by docs/BOUNDARIES.md.
 
       - name: Install build prerequisites 🔧
         run: |
