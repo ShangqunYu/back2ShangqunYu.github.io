@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-26'
 papers:
   WpomZLAAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -34,7 +34,7 @@ papers:
     title: A Biomechanics-Inspired Approach to Soccer Kicking for Humanoid Robots
     year: '2024'
   WpomZLAAAAAJ:W7OEmFMy1HYC:
-    citations: 20
+    citations: 19
     title: Model-based lifelong reinforcement learning with bayesian exploration
     year: '2022'
   WpomZLAAAAAJ:WF5omc3nYNoC:
@@ -42,7 +42,7 @@ papers:
     title: Dynamic Object Avoidance using Event-Data for a Quadruped Robot
     year: Unknown Year
   WpomZLAAAAAJ:Y0pCki6q_DkC:
-    citations: 13
+    citations: 14
     title: Meta-learning Parameterized Skills
     year: '2023'
   WpomZLAAAAAJ:_FxGoFyzp5QC:
